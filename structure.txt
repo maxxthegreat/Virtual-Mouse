@@ -1,0 +1,13 @@
+multimodal_virtual_mouse/
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── LICENSE
+├── main.py
+├── utils/
+│   ├── voice_control.py
+│   ├── hand_gesture_control.py
+│   ├── eye_movement_control.py
+└── assets/
+    ├── screenshots/
+    └── demos/
