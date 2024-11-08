@@ -18,3 +18,16 @@ To install all required packages, run:
 
 ```bash
 pip install opencv-python mediapipe pyautogui vosk pyaudio screen_brightness_control pycaw comtypes
+
+
+#### `requirements.txt`
+
+```plaintext
+opencv-python
+mediapipe
+pyautogui
+vosk
+pyaudio
+screen_brightness_control
+pycaw
+comtypes
